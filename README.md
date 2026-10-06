@@ -15,6 +15,6 @@ Backend focus on Java/Spring Boot and microservices, with AI-assisted engineerin
 
 **Core:** Java · Spring Boot · Microservices · AWS · Docker/Kubernetes · Kafka/RabbitMQ
 
-**Also:** Python · C#/.NET · Angular · React · REST/JWT/OAuth2 · CI/CD · Terraform · Testcontainers
+**Also:** Angular · React · Python · C#/.NET · Node/NestJS · REST/JWT/OAuth2 · CI/CD · Terraform · Testcontainers
 
 [LinkedIn](https://www.linkedin.com/in/rony-reinehr-brand) · ronybrand@gmail.com
