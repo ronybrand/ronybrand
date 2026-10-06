@@ -13,8 +13,8 @@ Foco em backend Java/Spring Boot e microsserviços, com engenharia assistida por
 - [Estado](https://github.com/ronybrand/estado): um código legado de 2018, reescrito em Java 25/Spring Boot 4.1 com ownership completo de AWS do zero. 14 ADRs e 4 bugs de produção documentados a partir de primeiros princípios. [Case study](https://github.com/ronybrand/estado/blob/master/CASE_STUDY.md).
 - [spring-order-api](https://github.com/ronybrand/spring-order-api): gestão de pedidos orientada a eventos, com outbox transacional, CQRS e testes de contrato consumer-driven.
 
-**Principal:** Java · Spring Boot · Microsserviços · AWS · Docker/Kubernetes · Kafka/RabbitMQ
+**Principal:** Java · Spring Boot · Microsserviços · REST/JWT/OAuth2 · AWS · Docker/Kubernetes · Kafka/RabbitMQ · CI/CD
 
-**Também:** Angular · React · Node/NestJS · Python · C#/.NET · REST/JWT/OAuth2 · CI/CD · Terraform · Testcontainers
+**Também:** Angular · React · Node/NestJS · Python · C#/.NET · Terraform · Testcontainers
 
 [LinkedIn](https://www.linkedin.com/in/rony-reinehr-brand) · ronybrand@gmail.com

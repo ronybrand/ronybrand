@@ -13,8 +13,8 @@ Backend focus on Java/Spring Boot and microservices, with AI-assisted engineerin
 - [Brazilian States](https://github.com/ronybrand/estado): a legacy codebase from 2018, rebuilt on Java 25/Spring Boot 4.1 with full AWS ownership from scratch. 14 ADRs and 4 production bugs documented from first principles. [Case study](https://github.com/ronybrand/estado/blob/master/CASE_STUDY.md).
 - [spring-order-api](https://github.com/ronybrand/spring-order-api): event-driven order management with transactional outbox, CQRS, and consumer-driven contract tests.
 
-**Core:** Java · Spring Boot · Microservices · AWS · Docker/Kubernetes · Kafka/RabbitMQ
+**Core:** Java · Spring Boot · Microservices · REST/JWT/OAuth2 · AWS · Docker/Kubernetes · Kafka/RabbitMQ · CI/CD
 
-**Also:** Angular · React · Node/NestJS · Python · C#/.NET · REST/JWT/OAuth2 · CI/CD · Terraform · Testcontainers
+**Also:** Angular · React · Node/NestJS · Python · C#/.NET · Terraform · Testcontainers
 
 [LinkedIn](https://www.linkedin.com/in/rony-reinehr-brand) · ronybrand@gmail.com
