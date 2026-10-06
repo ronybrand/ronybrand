@@ -4,6 +4,8 @@
 
 Senior Software Engineer, 23+ years, most of it full-stack. Based in São Paulo, Brazil.
 
+Open to Senior Backend/Full-stack roles, remote or São Paulo.
+
 Backend focus on Java/Spring Boot and microservices, with AI-assisted engineering as a deliberate daily practice, not an experiment: deterministic guards around LLM agents, red-team code review, architecture decisions logged as ADRs while they're made.
 
 **Worth a look:**

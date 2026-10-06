@@ -4,6 +4,8 @@
 
 Engenheiro de Software Sênior, 23+ anos, boa parte deles fullstack. Baseado em São Paulo.
 
+Aberto a posições Sênior de Backend/Full-stack, remoto ou São Paulo.
+
 Foco em backend Java/Spring Boot e microsserviços, com engenharia assistida por IA como prática deliberada do dia a dia, não um experimento: guards determinísticos em torno de agentes LLM, code review red-team, decisões de arquitetura registradas como ADRs no momento em que são tomadas.
 
 **Vale conferir:**
