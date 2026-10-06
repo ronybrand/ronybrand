@@ -1,3 +1,5 @@
+🇧🇷 [Ler em português](README.pt-BR.md)
+
 ### Rony Reinehr Brand
 
 Senior Software Engineer, 23+ years, most of it full-stack. Based in São Paulo, Brazil.
